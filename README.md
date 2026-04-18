@@ -30,7 +30,8 @@ The dataset used is the **Iris dataset**, a classic dataset in machine learning.
 * 1 → Versicolor
 * 2 → Virginica
 
-  ![Uploading IRIS.jpg…]()
+  <img width="419" height="210" alt="image" src="https://github.com/user-attachments/assets/1e672aa0-817a-47bb-8925-bffc1eadf7d1" />
+
 
 
 ### 🔹 Dataset Info:

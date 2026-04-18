@@ -160,13 +160,6 @@ Machine Learning Enthusiast 🚀
 
 ---
 
-# 💬 Bonus (Optional GitHub Tagline)
+## VISUALISATIONS
 
-👉
-“Built a complete ML pipeline for Iris classification with EDA, multiple models, and performance evaluation.”
 
----
-
-Agar chaho toh next mai bana deta hoon:
-👉 **🔥 LinkedIn post (viral level)**
-👉 **📂 GitHub project structure + screenshots guide**

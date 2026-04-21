@@ -164,6 +164,35 @@ Machine Learning Enthusiast 🚀
 
 ---
 
-## VISUALISATIONS
+## Iris Data Visualisations Graphs
+
+ Pairplot.png
+ <img width="1056" height="983" alt="image" src="https://github.com/user-attachments/assets/a42e0d2f-f1dd-43b4-9d83-5fa807ad1a59" />
+
+ Count Plot.png
+  <img width="535" height="396" alt="image" src="https://github.com/user-attachments/assets/b357fcad-aa79-4265-a2fd-47d717f11de4" />
+
+ Histograms,png
+  <img width="833" height="743" alt="image" src="https://github.com/user-attachments/assets/6a1854c7-0e8b-4c37-8ed7-c9ca9018d1a3" />
+
+ Correlation_Heatmap.png
+  <img width="640" height="529" alt="image" src="https://github.com/user-attachments/assets/d445d6cb-5fb9-4b17-9128-5c312c52771e" />
+
+ Scatter_Plot.png
+  <img width="540" height="396" alt="image" src="https://github.com/user-attachments/assets/d739a82a-dead-41e7-8c53-1fa300a43695" />
+
+ Violin_pot.png
+  <img width="837" height="550" alt="image" src="https://github.com/user-attachments/assets/0c96d74f-a71e-48b6-923a-ff11133b4aa9" />
+
+ Confusion_Matrix.png
+  <img width="538" height="437" alt="image" src="https://github.com/user-attachments/assets/c8799bf2-3d12-45c8-b88d-56934baba45a" />
 
 
+## Conclusion
+
+- Petal features are most important
+- Random Forest and SVM performed best
+- Cross-validation shows ~96% accuracy
+- Dataset is clean and easy to classify
+
+# This project demonstrates a complete machine learning workflow including EDA, model training, evaluation, and prediction.

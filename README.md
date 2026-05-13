@@ -170,18 +170,22 @@ Machine Learning Enthusiast 🚀
 ## Iris Data Visualisations Graphs
 
  Pairplot.png
+ 
  <img width="1056" height="983" alt="image" src="https://github.com/user-attachments/assets/a42e0d2f-f1dd-43b4-9d83-5fa807ad1a59" />
 
 
  Correlation_Heatmap.png
+ 
   <img width="640" height="529" alt="image" src="https://github.com/user-attachments/assets/d445d6cb-5fb9-4b17-9128-5c312c52771e" />
 
 
  Scatter_Plot.png
+ 
   <img width="540" height="396" alt="image" src="https://github.com/user-attachments/assets/d739a82a-dead-41e7-8c53-1fa300a43695" />
 
 
  Confusion_Matrix.png
+ 
   <img width="538" height="437" alt="image" src="https://github.com/user-attachments/assets/c8799bf2-3d12-45c8-b88d-56934baba45a" />
 
 
